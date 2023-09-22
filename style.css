@@ -1,0 +1,25 @@
+body{
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+h1{
+	color:white;
+	font-style:oblique;
+	margin-left:90px;
+	font-size:50px;
+	text-decoration:underline black;
+}
+b{
+	font-size:40px;
+	margin-left:150px;
+	font-family:"helvetica";
+	text-decoration:underline deeppink;
+	display:block;
+}
+h2{
+	color:white;
+	font-family:sans-serif;
+	margin-left:50px;	
+	font-family:helvetica neue;
+	line-height:30px;
+}
